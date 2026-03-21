@@ -43,8 +43,8 @@ ul {
   text-decoration: none;
 }
 
-.nav-list a:hover,
-.nav-list a:focus {
+.nav-list :hover,
+.nav-list :focus {
   color: #404bbf;
 }
 .contacts-list {
